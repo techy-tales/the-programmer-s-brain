@@ -1,6 +1,6 @@
 # 📚 [프로그래머의 뇌] 책읽기 스터디
 
-- [프로그래머의 뇌]([https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310572428](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285967039)) 책을 읽으며 스터디한 내용을 기록합니다.
+- [프로그래머의 뇌](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285967039) 책을 읽으며 스터디한 내용을 기록합니다.
 - 매주 수요일 오후 9시에 구글밋에서 모여 30분 정도 책에 대한 이야기를 자유롭게 나눕니다.
 - 책 진도는 아래와 같습니다.
   - 8/9 - 1, 2
